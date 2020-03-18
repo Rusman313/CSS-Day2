@@ -1,0 +1,7 @@
+body {
+	background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-my-resume-background-material-image_177383.jpg);
+}
+nav a:hover {
+	text-decoration: underline;
+	color: darkgrey;
+}

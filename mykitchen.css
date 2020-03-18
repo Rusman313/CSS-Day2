@@ -1,0 +1,27 @@
+body {
+	background-image: url(https://cdn.clipart.email/0c99a81766b17b8c430e69d22b938fcd_117105-cookies-cliparts-stock-vector-and-royalty-free-cookies-_450-450.jpeg);
+}
+
+.ChocolateChipCookies{
+	color: brown;
+	font-weight: bolder;
+	background-color:white;
+}
+
+table {
+	background-color: #ffffffde;
+	transition: all 4s ease;
+}
+.TABLE {
+	font-weight: bold;
+}
+nav a:hover {
+	text-decoration: underline;
+	color: darkgrey;
+}
+
+button {
+	button:hover {
+	background-color: white;
+	color: brown;
+}

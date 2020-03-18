@@ -1,0 +1,42 @@
+body {
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-black-meat-western-food-banner-background-image_194600.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+
+h2 {
+	color: white;
+	font-family: cursive;
+
+}
+
+table, th, td {
+	border: 1px solid black;}
+
+th, td {
+	background-color: white;
+	padding: 2px;
+}
+
+
+nav li {
+	display: inline;
+	font-size: 10px;
+	text-transform: uppercase;
+	font-family: cursive;
+	margin-right: 30px;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+}
+nav a:hover {
+	text-decoration: underline;
+	color: violet;
+}
+h1 {
